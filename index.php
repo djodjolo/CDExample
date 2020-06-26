@@ -9,5 +9,10 @@
 <body>
     <h1>Works 12345</h1>
     <h3><?php echo "I php radi!" ?> </h3>
+
+
+    <p><?php for($i=0;$i<10;$i++){
+        echo "$i"."</br>";
+    };?></p>
 </body>
 </html>
